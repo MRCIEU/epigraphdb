@@ -74,21 +74,21 @@ to play with these notebooks, or clone the repo and [set up](#set-up) a local Ju
       <td><a href="paper-case-studies/case-1-pleiotropy.ipynb">
         Case study 1: Distinguishing vertical and horizontal pleiotropy for SNP-protein associations
       </a></td>
-      <td>Colab</td>
+      <td>[Colab](https://colab.research.google.com/github/MRCIEU/epigraphdb/blob/master/paper-case-studies/case-1-pleiotropy.ipynb)</td>
       <td>Binder</td>
     </tr>
     <tr>
       <td><a href="paper-case-studies/case-2-alt-drug-target.ipynb">
         Case study 2: Identification of potential drug targets
       </a></td>
-      <td>Colab</td>
+      <td>[Colab](https://colab.research.google.com/github/MRCIEU/epigraphdb/blob/master/paper-case-studies/case-2-alt-drug-target.ipynb)</td>
       <td>Binder</td>
     </tr>
     <tr>
       <td><a href="paper-case-studies/case-3-literature-triangulation.ipynb">
         Case study 3: Triangulating causal estimates with literature evidence
       </a></td>
-      <td>Colab</td>
+      <td>[Colab](https://colab.research.google.com/github/MRCIEU/epigraphdb/blob/master/paper-case-studies/case-3-literature-triangulation.ipynb)</td>
       <td>Binder</td>
     </tr>
     <tr>
@@ -104,7 +104,7 @@ to play with these notebooks, or clone the repo and [set up](#set-up) a local Ju
       <td><a href="general-examples/epigraphdb-platform.ipynb">
         Functionalities in getting metadata, entity search, and using Cypher queires
       </a></td>
-      <td>Colab</td>
+      <td>[Colab](https://colab.research.google.com/github/MRCIEU/epigraphdb/blob/master/general-examples/epigraphdb-platform.ipynb)</td>
       <td>Binder</td>
     </tr>
   </tbody>
