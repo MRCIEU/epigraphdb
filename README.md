@@ -4,6 +4,7 @@
 <a href="http://bristol.ac.uk" target="_blank"><img src="assets/uob.svg" alt="" height="40" style="padding:5px"/></a>
 <a href="http://www.bris.ac.uk/ieu" target="_blank"><img src="assets/mrc-ieu-logo.png" alt="" height="40" style="padding:5px"/></a>
 ![Twitter Follow](https://img.shields.io/twitter/follow/epigraphdb?style=social)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/MRCIEU/epigraphdb/issues)
 
 <a href="http://epigraphdb.org" target="_blank"><img alt="" src="assets/web-ui.jpeg" height="300"/></a>
 <a href="http://docs.epigraphdb.org" target="_blank"><img alt="" src="assets/gallery.png" height="300"/></a>
