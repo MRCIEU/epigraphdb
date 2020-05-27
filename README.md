@@ -1,9 +1,12 @@
 # EpiGraphDB: A database and data mining platform for health data science
 
-<a href="http://epigraphdb.org"><img src="assets/epigraphdb-logo.svg" alt="" height="40" style="padding:5px"/></a> <span class="pull-right"> <a href="http://bristol.ac.uk"><img src="assets/uob.svg" alt="" height="40" style="padding:5px"/></a> <a href="http://www.bris.ac.uk/ieu"><img src="assets/mrc-ieu-logo.png" alt="" height="40" style="padding:5px"/></a> </span>
+<a href="http://epigraphdb.org" target="_blank"><img src="assets/epigraphdb-logo.svg" alt="" height="40" style="padding:5px"/></a>
+<a href="http://bristol.ac.uk" target="_blank"><img src="assets/uob.svg" alt="" height="40" style="padding:5px"/></a>
+<a href="http://www.bris.ac.uk/ieu" target="_blank"><img src="assets/mrc-ieu-logo.png" alt="" height="40" style="padding:5px"/></a>
+![Twitter Follow](https://img.shields.io/twitter/follow/epigraphdb?style=social)
 
-<a href="http://epigraphdb.org"><img alt="" src="assets/web-ui.jpeg" height="300"/></a>
-<a href="http://docs.epigraphdb.org"><img alt="" src="assets/gallery.png" height="300"/></a>
+<a href="http://epigraphdb.org" target="_blank"><img alt="" src="assets/web-ui.jpeg" height="300"/></a>
+<a href="http://docs.epigraphdb.org" target="_blank"><img alt="" src="assets/gallery.png" height="300"/></a>
 
 [EpiGraphDB](http://epigraphdb.org)
 is an analytical platform and database to support data mining in epidemiology.
