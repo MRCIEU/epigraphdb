@@ -55,9 +55,7 @@ The following table lists the main components of EpiGraphDB and their sources.
 Below are the example use case notebooks.
 You can either use
 [Google Colab](#)
-or
-[Binder](#)
-to play with these notebooks, or clone the repo and [set up](#set-up) a local Jupyter lab environment.
+to play with these notebooks online, or clone the repo and [set up](#set-up) a local Jupyter lab environment.
 
 <table class="table">
   <tbody>
@@ -67,35 +65,34 @@ to play with these notebooks, or clone the repo and [set up](#set-up) a local Ju
       </td>
       <td>
       </td>
-      <td>
-      </td>
     </tr>
     <tr>
       <td><a href="paper-case-studies/case-1-pleiotropy.ipynb">
         Case study 1: Distinguishing vertical and horizontal pleiotropy for SNP-protein associations
       </a></td>
-      <td>[Colab](https://colab.research.google.com/github/MRCIEU/epigraphdb/blob/master/paper-case-studies/case-1-pleiotropy.ipynb)</td>
-      <td>Binder</td>
+      <td>
+      <a href="https://colab.research.google.com/github/MRCIEU/epigraphdb/blob/master/paper-case-studies/case-1-pleiotropy.ipynb" target="_blank_"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+      </td>
     </tr>
     <tr>
       <td><a href="paper-case-studies/case-2-alt-drug-target.ipynb">
         Case study 2: Identification of potential drug targets
       </a></td>
-      <td>[Colab](https://colab.research.google.com/github/MRCIEU/epigraphdb/blob/master/paper-case-studies/case-2-alt-drug-target.ipynb)</td>
-      <td>Binder</td>
+      <td>
+      <a href="https://colab.research.google.com/github/MRCIEU/epigraphdb/blob/master/paper-case-studies/case-2-alt-drug-target.ipynb" target="_blank_"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+      </td>
     </tr>
     <tr>
       <td><a href="paper-case-studies/case-3-literature-triangulation.ipynb">
         Case study 3: Triangulating causal estimates with literature evidence
       </a></td>
-      <td>[Colab](https://colab.research.google.com/github/MRCIEU/epigraphdb/blob/master/paper-case-studies/case-3-literature-triangulation.ipynb)</td>
-      <td>Binder</td>
+      <td>
+      <a href="https://colab.research.google.com/github/MRCIEU/epigraphdb/blob/master/paper-case-studies/case-3-literature-triangulation.ipynb" target="_blank_"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+      </td>
     </tr>
     <tr>
       <td>
       <strong><a href="general-examples">General examples</a></strong>
-      </td>
-      <td>
       </td>
       <td>
       </td>
@@ -104,8 +101,9 @@ to play with these notebooks, or clone the repo and [set up](#set-up) a local Ju
       <td><a href="general-examples/epigraphdb-platform.ipynb">
         Functionalities in getting metadata, entity search, and using Cypher queires
       </a></td>
-      <td>[Colab](https://colab.research.google.com/github/MRCIEU/epigraphdb/blob/master/general-examples/epigraphdb-platform.ipynb)</td>
-      <td>Binder</td>
+      <td>
+      <a href="https://colab.research.google.com/github/MRCIEU/epigraphdb/blob/master/general-examples/epigraphdb-platform.ipynb" target="_blank_"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+      </td>
     </tr>
   </tbody>
 </table>
