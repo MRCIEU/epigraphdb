@@ -31,16 +31,16 @@ The following table lists the main components of EpiGraphDB and their sources.
       <td>-</td>
     </tr>
     <tr>
-      <td><a href="http://epigraphdb.org">Web UI</a></td>
+      <td><a href="http://epigraphdb.org" target="_blank">Web UI</a></td>
       <td>-</td>
     </tr>
     <tr>
-      <td><a href="http://api.epigraphdb.org">API</a></td>
+      <td><a href="http://api.epigraphdb.org" target="_blank">API</a></td>
       <td>-</td>
     </tr>
     <tr>
-      <td><a href="https://mrcieu.github.io/epigraphdb-r">R package</a></td>
-      <td><a href="https://github.com/MRCIEU/epigraphdb-r">Github</a></td>
+      <td><a href="https://mrcieu.github.io/epigraphdb-r" target="_blank">R package</a></td>
+      <td><a href="https://github.com/MRCIEU/epigraphdb-r" target="_blank">Github</a></td>
     </tr>
     <tr>
       <td><a href="http://github.com/MRCIEU/epigraphdb">Example use cases (this repo)</a></td>
@@ -61,13 +61,13 @@ to play with these notebooks online, or clone the repo and [set up](#set-up) a l
   <tbody>
     <tr>
       <td>
-      <strong><a href="paper-case-studies">Case studies for the EpiGraphDB paper</a></strong>
+      <strong><a href="paper-case-studies" target="_blank">Case studies for the EpiGraphDB paper</a></strong>
       </td>
       <td>
       </td>
     </tr>
     <tr>
-      <td><a href="paper-case-studies/case-1-pleiotropy.ipynb">
+      <td><a href="paper-case-studies/case-1-pleiotropy.ipynb" target="_blank">
         Case study 1: Distinguishing vertical and horizontal pleiotropy for SNP-protein associations
       </a></td>
       <td>
@@ -75,7 +75,7 @@ to play with these notebooks online, or clone the repo and [set up](#set-up) a l
       </td>
     </tr>
     <tr>
-      <td><a href="paper-case-studies/case-2-alt-drug-target.ipynb">
+      <td><a href="paper-case-studies/case-2-alt-drug-target.ipynb" target="_blank">
         Case study 2: Identification of potential drug targets
       </a></td>
       <td>
@@ -83,7 +83,7 @@ to play with these notebooks online, or clone the repo and [set up](#set-up) a l
       </td>
     </tr>
     <tr>
-      <td><a href="paper-case-studies/case-3-literature-triangulation.ipynb">
+      <td><a href="paper-case-studies/case-3-literature-triangulation.ipynb" target="_blank">
         Case study 3: Triangulating causal estimates with literature evidence
       </a></td>
       <td>
@@ -92,13 +92,13 @@ to play with these notebooks online, or clone the repo and [set up](#set-up) a l
     </tr>
     <tr>
       <td>
-      <strong><a href="general-examples">General examples</a></strong>
+      <strong><a href="general-examples" target="_blank">General examples</a></strong>
       </td>
       <td>
       </td>
     </tr>
     <tr>
-      <td><a href="general-examples/epigraphdb-platform.ipynb">
+      <td><a href="general-examples/epigraphdb-platform.ipynb" target="_blank">
         Functionalities in getting metadata, entity search, and using Cypher queires
       </a></td>
       <td>
