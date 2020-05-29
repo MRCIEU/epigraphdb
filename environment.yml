@@ -1,0 +1,16 @@
+name: epigraphdb-notebooks
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.7
+  - jupyterlab
+  - nodejs
+  - requests
+  - pandas
+  - scipy
+  - numpy
+  - environs
+  - matplotlib
+  - networkx
+  - pydot
