@@ -98,11 +98,11 @@ to play with these notebooks online, or clone the repo and [set up](#set-up) a l
       </td>
     </tr>
     <tr>
-      <td><a href="general-examples/epigraphdb-platform.ipynb" target="_blank">
+      <td><a href="general-examples/platform-meta-functionalities.ipynb" target="_blank">
         Functionalities in getting metadata, entity search, and using Cypher queires
       </a></td>
       <td>
-      <a href="https://colab.research.google.com/github/MRCIEU/epigraphdb/blob/master/general-examples/epigraphdb-platform.ipynb" target="_blank_"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+      <a href="https://colab.research.google.com/github/MRCIEU/epigraphdb/blob/master/general-examples/platform-meta-functionalities.ipynb" target="_blank_"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
       </td>
     </tr>
   </tbody>
