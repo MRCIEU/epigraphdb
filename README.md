@@ -4,7 +4,8 @@
 <a href="http://bristol.ac.uk" target="_blank"><img src="assets/uob.svg" alt="" height="40" style="padding:5px"/></a>
 <a href="http://www.bris.ac.uk/ieu" target="_blank"><img src="assets/mrc-ieu-logo.png" alt="" height="40" style="padding:5px"/></a>
 ![Twitter Follow](https://img.shields.io/twitter/follow/epigraphdb?style=social)
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/MRCIEU/epigraphdb/issues)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MRCIEU/epigraphdb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MRCIEU/epigraphdb/master)
 
 <a href="http://epigraphdb.org" target="_blank"><img alt="" src="assets/web-ui.jpeg" height="300"/></a>
 <a href="http://docs.epigraphdb.org" target="_blank"><img alt="" src="assets/gallery.png" height="300"/></a>
@@ -54,7 +55,8 @@ The following table lists the main components of EpiGraphDB and their sources.
 
 Below are the example use case notebooks.
 You can either use
-[Google Colab](#)
+[Google Colab](https://colab.research.google.com/github/MRCIEU/epigraphdb) or
+[Binder](https://mybinder.org/v2/gh/MRCIEU/epigraphdb/master)
 to play with these notebooks online, or clone the repo and [set up](#set-up) a local Jupyter lab environment.
 
 <table class="table">
@@ -63,8 +65,8 @@ to play with these notebooks online, or clone the repo and [set up](#set-up) a l
       <td>
       <strong><a href="paper-case-studies" target="_blank">Case studies for the EpiGraphDB paper</a></strong>
       </td>
-      <td>
-      </td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="paper-case-studies/case-1-pleiotropy.ipynb" target="_blank">
@@ -72,6 +74,9 @@ to play with these notebooks online, or clone the repo and [set up](#set-up) a l
       </a></td>
       <td>
       <a href="https://colab.research.google.com/github/MRCIEU/epigraphdb/blob/master/paper-case-studies/case-1-pleiotropy.ipynb" target="_blank_"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+      </td>
+      <td>
+      <a href="https://mybinder.org/v2/gh/MRCIEU/epigraphdb/master?filepath=paper-case-studies%2Fcase-1-pleiotropy.ipynb" target="_blank_"> <img src="https://mybinder.org/badge_logo.svg" alt="Binder"/></a>
       </td>
     </tr>
     <tr>
@@ -81,6 +86,9 @@ to play with these notebooks online, or clone the repo and [set up](#set-up) a l
       <td>
       <a href="https://colab.research.google.com/github/MRCIEU/epigraphdb/blob/master/paper-case-studies/case-2-alt-drug-target.ipynb" target="_blank_"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
       </td>
+      <td>
+      <a href="https://mybinder.org/v2/gh/MRCIEU/epigraphdb/master?filepath=paper-case-studies%2Fcase-2-alt-drug-target.ipynb" target="_blank_"> <img src="https://mybinder.org/badge_logo.svg" alt="Binder"/></a>
+      </td>
     </tr>
     <tr>
       <td><a href="paper-case-studies/case-3-literature-triangulation.ipynb" target="_blank">
@@ -88,6 +96,9 @@ to play with these notebooks online, or clone the repo and [set up](#set-up) a l
       </a></td>
       <td>
       <a href="https://colab.research.google.com/github/MRCIEU/epigraphdb/blob/master/paper-case-studies/case-3-literature-triangulation.ipynb" target="_blank_"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+      </td>
+      <td>
+      <a href="https://mybinder.org/v2/gh/MRCIEU/epigraphdb/master?filepath=paper-case-studies%2Fcase-3-literature-triangulation.ipynb" target="_blank_"> <img src="https://mybinder.org/badge_logo.svg" alt="Binder"/></a>
       </td>
     </tr>
     <tr>
@@ -103,6 +114,9 @@ to play with these notebooks online, or clone the repo and [set up](#set-up) a l
       </a></td>
       <td>
       <a href="https://colab.research.google.com/github/MRCIEU/epigraphdb/blob/master/general-examples/platform-meta-functionalities.ipynb" target="_blank_"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+      </td>
+      <td>
+      <a href="https://mybinder.org/v2/gh/MRCIEU/epigraphdb/master?filepath=paper-case-studies%2Fplatform-meta-functionalities.ipynb" target="_blank_"> <img src="https://mybinder.org/badge_logo.svg" alt="Binder"/></a>
       </td>
     </tr>
   </tbody>
