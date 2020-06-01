@@ -116,7 +116,7 @@ to play with these notebooks online, or clone the repo and [set up](#set-up) a l
       <a href="https://colab.research.google.com/github/MRCIEU/epigraphdb/blob/master/general-examples/platform-meta-functionalities.ipynb" target="_blank_"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
       </td>
       <td>
-      <a href="https://mybinder.org/v2/gh/MRCIEU/epigraphdb/master?filepath=paper-case-studies%2Fplatform-meta-functionalities.ipynb" target="_blank_"> <img src="https://mybinder.org/badge_logo.svg" alt="Binder"/></a>
+      <a href="https://mybinder.org/v2/gh/MRCIEU/epigraphdb/master?filepath=general-examples%2Fplatform-meta-functionalities.ipynb" target="_blank_"> <img src="https://mybinder.org/badge_logo.svg" alt="Binder"/></a>
       </td>
     </tr>
   </tbody>
