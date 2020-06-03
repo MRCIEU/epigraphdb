@@ -123,7 +123,9 @@ to play with these notebooks online, or clone the repo and [set up](#set-up) a l
 </table>
 
 The example notebooks above are done in Python using the EpiGraphDB API.
-R users can visit the package vignettes (stay tuned!) for equivalent functionalities using the `epigraphdb` R package.
+R users can visit the
+[package vignettes](https://mrcieu.github.io/epigraphdb-r/#using-epigraphdb)
+for equivalent functionalities using the `epigraphdb` R package.
 
 ### Set up
 
