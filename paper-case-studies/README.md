@@ -4,7 +4,7 @@ This directory contains the case study examples for the EpiGraphDB paper (forthc
 
 To play with the Jupyter notebooks, either see the
 <a href="https://github.com/MRCIEU/epigraphdb#set-up" target="_blank">set up steps</a>
-inside a conda environment, or use Google Colab (see table below).
+inside a conda environment, or use Google Colab or Binder (see table below).
 
 <table class="table">
   <tbody>
