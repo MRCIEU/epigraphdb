@@ -15,6 +15,9 @@ inside a conda environment, or use Google Colab (see table below).
       <td>
       <a href="https://colab.research.google.com/github/MRCIEU/epigraphdb/blob/master/paper-case-studies/case-1-pleiotropy.ipynb" target="_blank_"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
       </td>
+      <td>
+      <a href="https://mybinder.org/v2/gh/MRCIEU/epigraphdb/master?filepath=paper-case-studies%2Fcase-1-pleiotropy.ipynb" target="_blank_"> <img src="https://mybinder.org/badge_logo.svg" alt="Binder"/></a>
+      </td>
     </tr>
     <tr>
       <td><a href="case-2-alt-drug-target.ipynb" target="_blank">
@@ -23,6 +26,9 @@ inside a conda environment, or use Google Colab (see table below).
       <td>
       <a href="https://colab.research.google.com/github/MRCIEU/epigraphdb/blob/master/paper-case-studies/case-2-alt-drug-target.ipynb" target="_blank_"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
       </td>
+      <td>
+      <a href="https://mybinder.org/v2/gh/MRCIEU/epigraphdb/master?filepath=paper-case-studies%2Fcase-2-alt-drug-target.ipynb" target="_blank_"> <img src="https://mybinder.org/badge_logo.svg" alt="Binder"/></a>
+      </td>
     </tr>
     <tr>
       <td><a href="case-3-literature-triangulation.ipynb" target="_blank">
@@ -30,6 +36,9 @@ inside a conda environment, or use Google Colab (see table below).
       </a></td>
       <td>
       <a href="https://colab.research.google.com/github/MRCIEU/epigraphdb/blob/master/paper-case-studies/case-3-literature-triangulation.ipynb" target="_blank_"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+      </td>
+      <td>
+      <a href="https://mybinder.org/v2/gh/MRCIEU/epigraphdb/master?filepath=paper-case-studies%2Fcase-3-literature-triangulation.ipynb" target="_blank_"> <img src="https://mybinder.org/badge_logo.svg" alt="Binder"/></a>
       </td>
     </tr>
   </tbody>
