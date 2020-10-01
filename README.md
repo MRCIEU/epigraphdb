@@ -109,6 +109,17 @@ to play with these notebooks online, or clone the repo and [set up](#set-up) a l
       </td>
     </tr>
     <tr>
+      <td><a href="general-examples/getting-started-with-epigraphdb.ipynb" target="_blank">
+      Getting started with EpiGraphDB in Python
+      </a></td>
+      <td>
+      <a href="https://colab.research.google.com/github/MRCIEU/epigraphdb/blob/master/general-examples/getting-started-with-epigraphdb.ipynb" target="_blank_"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+      </td>
+      <td>
+      <a href="https://mybinder.org/v2/gh/MRCIEU/epigraphdb/master?filepath=general-examples%2Fgetting-started-with-epigraphdb.ipynb" target="_blank_"> <img src="https://mybinder.org/badge_logo.svg" alt="Binder"/></a>
+      </td>
+    </tr>
+    <tr>
       <td><a href="general-examples/platform-meta-functionalities.ipynb" target="_blank">
         Functionalities in getting metadata, entity search, and using Cypher queires
       </a></td>
