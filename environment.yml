@@ -16,5 +16,6 @@ dependencies:
   - pydot
   - seaborn
   - pip
+  - nbqa
   - pip:
     - papermill

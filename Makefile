@@ -3,6 +3,11 @@ ifdef EPIGRAPHDB_API_URL
 URL := $(EPIGRAPHDB_API_URL)
 endif
 
+## format notebooks
+fmt:
+	nbqa black general-examples/ --nbqa-mutate
+	nbqa black paper-case-studies/ --nbqa-mutate
+
 ## build notebooks (Use `EPIGRAPHDB_API=xxx make build` to change API url)
 build:
 	echo $(URL)
