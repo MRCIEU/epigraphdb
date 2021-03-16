@@ -33,11 +33,11 @@ The following table lists the main components of EpiGraphDB and their sources.
     </tr>
     <tr>
       <td><a href="https://epigraphdb.org" target="_blank">Web UI</a></td>
-      <td>-</td>
+      <td><a href="https://github.com/MRCIEU/epigraphdb_web" target="_blank">Github</a></td>
     </tr>
     <tr>
       <td><a href="https://api.epigraphdb.org" target="_blank">API</a></td>
-      <td>-</td>
+      <td><a href="https://github.com/MRCIEU/epigraphdb_api" target="_blank">Github</a></td>
     </tr>
     <tr>
       <td><a href="https://mrcieu.github.io/epigraphdb-r" target="_blank">R package</a></td>
