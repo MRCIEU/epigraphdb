@@ -29,7 +29,7 @@ The following table lists the main components of EpiGraphDB and their sources.
   <tbody>
     <tr>
       <td><a href="#">Data integration pipeline</a></td>
-      <td><a href="https://github.com/MRCIEU/epigraphdb_graph" target="_blank">Github</a></td>
+      <td><a href="https://github.com/MRCIEU/epigraphdb-graph" target="_blank">Github</a></td>
     </tr>
     <tr>
       <td><a href="https://epigraphdb.org" target="_blank">Web UI</a></td>
